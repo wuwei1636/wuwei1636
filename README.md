@@ -2,7 +2,7 @@
 
 ### 📫 How to reach me ...
 -  Email: 1537628435@qq.com
--  blog:  [http://blog.nan-bluesky.top/](http://blog.nan-bluesky.top/)
+-  blog:  [https://wuwei1636.github.io/](https://wuwei1636.github.io/)
 <!---
 wuwei1636/wuwei1636 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
